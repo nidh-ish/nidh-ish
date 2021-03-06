@@ -1,16 +1,53 @@
-### Hi there 👋
+<h3 align="center">Hello there, I'm Nidhish 👋</h3>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/nidhish-bhimrajka-09295a198/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/nidhishbhimrajk1" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Nidhish Bhimrajka, sophomore at IIIT-Banglore
+  <br>
+  <br>
+  🔬 I'm currently studying Computer Science and Engineering in my sophomore year of IMtech
+  <br>
+  💻 I'm passionate about coding
+  <br>
+  📚 Currently learning cryptography
+  <br>
+  📫 You can reach me at <a href="mailto: nidhishbhimrajka1@gmail.com">nidhishbhimrajka1@gmail.com</a>
+</p>
 
-<!--
-**nidh-ish/nidh-ish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2 align="center">Languages, Tools & Abilities</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+</p>
+
+<hr>
+
+<img align="right" height=350 width="auto" src="image.JPG" />
+<p align=left>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=225 width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=nidh-ish&show_icons=true&theme=gotham"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=190 width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidh-ish&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" /> </a>
+</p>
+
+<hr>
+
+<h2 align="center">Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/nidh-ish/C_assignments" title="C_assignments"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=C_assignments&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/hello-world" title="hello-world"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=hello-world&theme=gotham"></a>
+</p>
+<br><br>
