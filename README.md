@@ -51,3 +51,7 @@
   <a align="left" href="https://github.com/nidh-ish/C_assignments" title="C_assignments"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=C_assignments&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/hello-world" title="hello-world"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=hello-world&theme=gotham"></a>
 </p>
 <br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/nidh-ish/Bus_Ticketing_System" title="Bus_Ticketing_System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Bus_Ticketing_System&theme=gotham"></a>
+</p>
+<br><br>
