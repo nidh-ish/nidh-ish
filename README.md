@@ -56,6 +56,6 @@
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/nidh-ish/IAS_Computer" title="IAS_Computer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=IAS_Computer&theme=gotham"></a>
+  <a align="left" href="https://github.com/nidh-ish/IAS_Computer" title="IAS_Computer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=IAS_Computer&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/Caches" title="Caches"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Caches&theme=gotham"></a>
 </p>
 <br><br>
