@@ -37,9 +37,9 @@
 
 <img align="right" height=350 width="auto" src="image.JPG" />
 <p align=left>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/nidh-ish">
     <img height=225 width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=nidh-ish&show_icons=true&theme=gotham"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/nidh-ish">
     <img height=190 width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidh-ish&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" /> </a>
 </p>
 
