@@ -48,7 +48,7 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/nidh-ish/C_assignments" title="C_assignments"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=C_assignments&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/Github_for_n00bs" title="Github_for_n00bs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Github_for_n00bs&theme=gotham"></a>
+  <a align="left" href="https://github.com/nidh-ish/C_assignments" title="C_assignments"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=C_assignments&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/hello-world" title="hello-world"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=hello-world&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
@@ -59,6 +59,11 @@
   <a align="left" href="https://github.com/nidh-ish/IAS_Computer" title="IAS_Computer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=IAS_Computer&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/Caches" title="Caches"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Caches&theme=gotham"></a>
 </p>
 <br><br>
-<a align="left" href="https://github.com/nidh-ish/Transport_System" title="Transport_System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Transport_System&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/Java_Assignments" title="Java_Assignments"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Java_Assignments&theme=gotham"></a>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/nidh-ish/Transport_System" title="Transport_System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Transport_System&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/Java_Assignments" title="Java_Assignments"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Java_Assignments&theme=gotham"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/nidh-ish/Github_for_n00bs" title="Github_for_n00bs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Github_for_n00bs&theme=gotham"></a>
 </p>
 <br><br>
