@@ -64,6 +64,6 @@
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/nidh-ish/Github_for_n00bs" title="Github_for_n00bs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Github_for_n00bs&theme=gotham"></a>
+  <a align="left" href="https://github.com/nidh-ish/Github_for_n00bs" title="Github_for_n00bs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=Github_for_n00bs&theme=gotham"></a><a align="right" href="https://github.com/nidh-ish/CPP_Project" title="CPP_Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nidh-ish&repo=CPP_Project&theme=gotham"></a>
 </p>
 <br><br>
