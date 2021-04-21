@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, I'm Nidhish 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/nidhish-bhimrajka-09295a198/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/nidh-ish/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/nidhishbhimrajk1" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
