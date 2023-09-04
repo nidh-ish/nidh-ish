@@ -9,7 +9,7 @@
   Hi, I'm Nidhish Bhimrajka, undergrad student at IIIT-Banglore
   <br>
   <br>
-  🔬 I'm currently studying Computer Science and Engineering in my 3rd year of IMtech
+  🔬 I'm currently studying Computer Science and Engineering
   <br>
   💻 I'm passionate about coding
   <br>
